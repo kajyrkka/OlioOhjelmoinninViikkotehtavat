@@ -1,0 +1,2 @@
+# OlioOhjelmoinninViikkotehtavat
+EsimerkkiOpiskelijoille ja tanne talletetaan ohjelmointiesimerkkeja kurssin aikana
